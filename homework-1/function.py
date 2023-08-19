@@ -1,5 +1,4 @@
 import csv
-from settings import OPERATION_PATH_ORDERS
 
 
 def get_data(path):
